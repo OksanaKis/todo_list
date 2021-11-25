@@ -1,8 +1,8 @@
 # ToDo List
 ToDo list is a simple web application to save Your daily tasks in order not to miss anything. You can :
-* Add new task
-* Mark task as completed / uncompleted
-* Delete single task
+* Add a new task
+* Mark a task as completed / uncompleted
+* Delete your single task
 
 ## Screenshot
 ___Open [ToDo List](https://oksanakis.github.io/todo_list/) to view it in the browser.___
