@@ -7,7 +7,7 @@ ToDo list is a simple web application to save Your daily tasks in order not to m
 ## Screenshot
 ___Open [ToDo List](https://oksanakis.github.io/todo_list/) to view it in the browser.___
 
-<!-- ![image of my ToDo List]() -->
+![image of my ToDo List](https://github.com/OksanaKis/todo_list/blob/main/src/images/TodoList.png)
 
 
 ## Available Scripts
