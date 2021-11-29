@@ -13,6 +13,11 @@ header {
   font-size: 2rem;
 }
 
+h1 {
+  text-align: center;
+  color: #ff6f47;
+}
+
 header,
 form {
   min-height: 20vh;
@@ -24,10 +29,11 @@ form input,
 form button {
   padding: 0.5rem;
   font-size: 2rem;
-  border: none;
+  /* border: none; */
   background: white;
+  margin-left: 10rpx;
 }
-form button {
+todo-button {
   color: #ff6f47;
   background: #f7fffe;
   cursor: pointer;
